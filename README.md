@@ -8,9 +8,9 @@
 - Devops: [**Chef** ❤️](https://docs.chef.io/) - [**Docker** ❤️](https://www.docker.com/)- [**Ansible** ❤️](https://www.ansible.com/) - [**CI/CD** ❤️](https://copado.com/)
 - 📝 I regulary not only code, but tons of words, on 
 
-- 📫 You can reach me at [mudasirahmad32@gmail.com](https://http://mudasiraziz.blogspot.in/)
+- 📫 You can reach me at [mudasirahmadmca@gmail.com](https://http://mudasiraziz.blogspot.in/)
 
-- ⚡️ I work mainly [for Clikintech](https://clikintech.com/) and on [**refreshVersions**](https://github.com/mudasiranberlin)
+- ⚡️ I work mainly [for Clikintech](https://clikintech.com/) and on [**Limitless**](https://#)
 
 
 
