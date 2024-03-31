@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at [mudasirahmad32@gmail.com](https://http://mudasiraziz.blogspot.in/)
 
-- ⚡️ I work mainly [for Tignum](https://github.com/mudasiranberlin) and on [**refreshVersions**](https://github.com/mudasiranberlin)
+- ⚡️ I work mainly [for Clikintech](https://clikintech.com/) and on [**refreshVersions**](https://github.com/mudasiranberlin)
 
 
 
