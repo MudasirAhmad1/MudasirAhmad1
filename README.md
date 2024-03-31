@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmfayard&show_icons=true&locale=en" alt="MudasirAhmad1" /></p>
 
 
 
