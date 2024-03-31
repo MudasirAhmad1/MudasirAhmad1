@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="center">Hi 👋, I'm Mudasir Ahmad </h1>
 <h3 align="center"> Creative ,Lazyness, Impatience & Hubris.</h3>
 
@@ -29,7 +28,6 @@
    <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
 </div>
 
 
