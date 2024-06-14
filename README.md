@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at [mudasirahmadmca@gmail.com](https://http://mudasiraziz.blogspot.in/)
 
-- ⚡️ I work mainly [for AcadeNow](https://acadenow.in/),[for Clikintech](https://clikintech.com/) and on [**Limitless**](https://#)
+- ⚡️ I work mainly [for AcadeNow](https://acadenow.in/) [Clikintech](https://clikintech.com/) and on [**Limitless**](https://#)
 - ### Connect with me:
 <div id="badges">
   <a href="https://github.com/MudasirAhmad1">
